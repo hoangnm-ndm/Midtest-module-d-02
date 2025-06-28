@@ -6,7 +6,7 @@
 - Nộp bài: Đẩy code lên GitHub repository cá nhân (**public**) và gửi link qua Google Classroom. Không commit sau khi nộp.
 - Được tra cứu tài liệu chính thức của Express, Swagger, JWT, bcryptjs, Zod.
 - **Tắt tất cả extension AI** (Tabnine, GitHub Copilot, Codeium, BlackBoxAI, v.v.).
-- Thời gian: **150 phút**.
+- Thời gian: **180 phút**.
 - Tích hợp **Swagger** để test API.
 
 ---
