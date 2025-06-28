@@ -152,7 +152,7 @@
 
 ---
 
-## 6. Thao Tác SuperAdmin (1.5 điểm)
+## 6. Thao Tác SuperAdmin (2 điểm)
 
 Những thao tác sau đây chỉ dành cho người dùng có role `superAdmin`.
 
