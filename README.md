@@ -18,16 +18,15 @@
 - **username**: String, required, unique
 - **password**: String, required
 - **role**: String, default `member`, enum `[member, admin, superAdmin]`
-- **createdAt**: Date, default `Date.now`
 - **courses**: Array of ObjectId, ref Course (khóa học người dùng tạo)
-- **coursesRegistered**: Array of ObjectId, ref Course (khóa học đã đăng ký)
+- **coursesRegistered**: Array of ObjectId, ref Course (khóa học người dùng đăng ký)
+- **isBlocked**: Boolean, default `false` (để đánh dấu người dùng đã bị khóa)
 
 ### 1.2. Course (0.5 điểm)
 
 - **title**: String, required
 - **description**: String, required
 - **content**: String, required
-- **createdAt**: Date, default `Date.now`
 - **students**: Array of ObjectId, ref User
 - **price**: Number, default 0
 - **isArchived**: Boolean, default `false` (để đánh dấu khóa học đã lưu trữ hoặc ngừng kinh doanh)
