@@ -3,10 +3,9 @@
 ## 0. Yêu Cầu Chuẩn Bị
 
 - Tải Repository mẫu này về máy tính và thực hiện bài kiểm tra trên chính source code này.
-- Nộp bài: Đẩy code lên GitHub repository cá nhân (**public**) và gửi link qua Google Classroom. Không commit sau khi nộp.
-- Được tra cứu tài liệu chính thức của Express, Swagger, JWT, bcryptjs, Zod.
+- Được tra cứu tài liệu chính thức của các thư viện như: Express, Swagger, JWT, bcryptjs, Zod.
 - **Tắt tất cả extension AI** (Tabnine, GitHub Copilot, Codeium, BlackBoxAI, v.v.).
-- Thời gian: **180 phút**.
+- Thời gian: **150 phút**.
 - Tích hợp **Swagger** để test API.
 
 ---
